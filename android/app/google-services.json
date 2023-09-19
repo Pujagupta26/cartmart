@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94790368181",
+    "project_id": "cartmart-8dfd6",
+    "storage_bucket": "cartmart-8dfd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94790368181:android:22832ca3d60f4acdaeb7fc",
+        "android_client_info": {
+          "package_name": "com.mart.cartmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHE2hOpKrgCg9VDXaZN2ELLeRAll8WND0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
